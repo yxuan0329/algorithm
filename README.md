@@ -1,6 +1,9 @@
 ## Introduction
-This is the repository of the course of **Computer Algorithms** in NCUE, 2020 fall.
+This is the repository of the course of **Computer Algorithms** in NCUE, 2020 fall. <br>
 Programming language: Python
+<br>
+
+
 
 ## homework practices
 
