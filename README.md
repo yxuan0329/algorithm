@@ -5,8 +5,6 @@ Programming language: Python
 
 
 
-## homework practices
-
 ### Homework 1: Sorting
 quick sort and insertion sort : given a sequence of number and sort them in two ways. 
 
