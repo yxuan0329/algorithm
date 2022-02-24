@@ -18,5 +18,5 @@ There are truck, car and bike, and each of the transportation has their car widt
 Among these statement, we use Dijkstra's Algorithm to find an answer for this problem.
 
 ### Homework 4: BFS
-Given a binary matrix with m*\n, 0 stands for available and 1 stands for the opposite. Find a shortest path from the left-top to the right-bottom.
+Given a binary matrix with m * n, 0 stands for available and 1 stands for the opposite. Find a shortest path from the left-top to the right-bottom.
 We use BFS to solve this problem.
