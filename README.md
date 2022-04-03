@@ -10,14 +10,15 @@ Programming language: Python
 
 
 ## Contents
-|  #   | Homework name |
+|  #   | Name |
 |------|---------------|
 | 1    | [Sorting](https://github.com/yxuan0329/algorithm/blob/main/README.md#homework-1-sorting)       |
 | 2    | [2D-ranking](https://github.com/yxuan0329/algorithm/blob/main/README.md#homework-2-2D-ranking)    |
 | 3    | [Shortest Path](https://github.com/yxuan0329/algorithm/blob/main/README.md#homework-3-Shortest-Path) |
 | 4    | [BFS](https://github.com/yxuan0329/algorithm/blob/main/README.md#homework-4-BFS)           |
 
-
+<br>
+<br>
 
 ### Homework 1: Sorting
 quick sort and insertion sort : given a sequence of number and sort them in two ways. 
